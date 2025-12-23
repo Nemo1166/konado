@@ -247,9 +247,9 @@ export default defineConfig({
             text: 'Tutorial',
             items: [
               { text: 'Install', link: '/en/tutorial/install' },
-              { text: '对话配置文件', link: '/tutorial/profiles' },
-              { text: '演员坐标与缩放', link: '/tutorial/actor-coordinate-and-scaling' },
-              { text: '自定义对话框', link: '/tutorial/customize-the-dialogbox' }
+              { text: 'Configuration', link: '/en/tutorial/profiles' },
+              { text: "Actor's Coordinate and Scaling", link: '/en/tutorial/actor-coordinate-and-scaling' },
+              { text: 'Customization of the Dialog Box', link: '/en/tutorial/customize-the-dialogbox' }
             ]
           },
           {

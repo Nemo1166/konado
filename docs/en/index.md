@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Quickstart
-      link: /quickstart
+      link: /en/tutorial/install
     - theme: alt
       text: Buy us a coffee
       link: "https://afdian.tv/item/52230b2860a011f083ef52540025c377"
